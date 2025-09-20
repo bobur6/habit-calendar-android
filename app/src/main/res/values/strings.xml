@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">HabitCalendarChecker</string>
+
+    <!-- HabitDetailDialog Strings -->
+    <string name="habit_detail_edit_description">Edit habit</string>
+    <string name="habit_detail_edit_button">Edit</string>
+    <string name="habit_detail_clear_checks_description">Clear all checks</string>
+    <string name="habit_detail_clear_checks_button">Clear</string>
+    <string name="habit_detail_delete_description">Delete habit</string>
+    <string name="habit_detail_delete_button">Delete</string>
+    <string name="habit_detail_statistics_title">Statistics</string>
+    <string name="habit_detail_stats_total">Total</string>
+    <string name="habit_detail_stats_this_month">This month</string>
+    <string name="habit_detail_stats_streak">Streak</string>
+    <string name="habit_detail_created_date">Created: %1$s</string>
+    <string name="habit_detail_updated_date">Last updated: %1$s</string>
+
+    <!-- Dialog Generic Buttons -->
+    <string name="dialog_close_button">Close</string>
+    <string name="dialog_save_button">Save</string>
+    <string name="dialog_cancel_button">Cancel</string>
+    <string name="dialog_delete_button">Delete</string>
+    <string name="dialog_clear_button">Clear</string>
+
+    <!-- Edit Habit Dialog -->
+    <string name="edit_habit_dialog_title">Edit habit</string>
+    <string name="edit_habit_name_label">Habit name</string>
+
+    <!-- Delete Habit Dialog -->
+    <string name="delete_habit_dialog_title">Delete habit</string>
+    <string name="delete_habit_confirmation_message">Are you sure you want to delete habit \'%1$s\'? This action cannot be undone.</string>
+
+    <!-- Clear All Checks Dialog -->
+    <string name="clear_all_checks_dialog_title">Clear all checks?</string>
+    <string name="clear_all_checks_confirmation_message">Are you sure you want to clear all checks for habit \'%1$s\'? This action cannot be undone.</string>
+
+</resources>
