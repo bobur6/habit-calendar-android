@@ -81,4 +81,4 @@ app/src/main/java/com/bobur/habitcalendarchecker/
 
 ## 👨‍💻 Автор
 
-Bobur - [GitHub Profile](https://github.com/[your-username])
+Bobur - [GitHub Profile](https://github.com/bobur6)
